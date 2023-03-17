@@ -1,0 +1,25 @@
+.button{
+    background-color: blue;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+.app-container{
+    padding: 30px;
+}
+.input{
+    padding: 5px;
+    margin: 10px;
+}
+.list-item{
+    display: flex;
+    justify-content: space-between;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.buttons{
+    align-self: center;
+}
